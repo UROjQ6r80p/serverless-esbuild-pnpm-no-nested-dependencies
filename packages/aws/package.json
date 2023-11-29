@@ -11,7 +11,8 @@
   "license": "ISC",
   "devDependencies": {
     "esbuild": "^0.19.8",
-    "serverless": "^3.38.0"
+    "serverless": "^3.38.0",
+    "serverless-esbuild": "^1.49.0"
   },
   "dependencies": {
     "@sparticuz/chromium": "^119.0.0"
