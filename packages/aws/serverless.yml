@@ -11,5 +11,6 @@ functions:
 
 custom:
   esbuild:
+    packager: pnpm
     external:
       - '@sparticuz/chromium'
