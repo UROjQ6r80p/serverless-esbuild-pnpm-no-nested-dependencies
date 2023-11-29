@@ -1,4 +1,5 @@
 {
+  "name": "serverless",
   "private": true,
   "main": "index.js",
   "scripts": {
