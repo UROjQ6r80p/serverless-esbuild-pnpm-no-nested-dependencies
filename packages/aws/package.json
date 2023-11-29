@@ -1,0 +1,10 @@
+{
+  "main": "index.js",
+  "devDependencies": {
+    "serverless": "^3.38.0",
+    "serverless-esbuild": "^1.49.0"
+  },
+  "dependencies": {
+    "@sparticuz/chromium": "^119.0.0"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "build": "pnpm --filter=aws exec serverless package"
+  }
+}
